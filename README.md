@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### What da snake doin there...!!! :0
+<!--### What da snake doin there...!!! :0
 ![snake gif](https://github.com/SadmanSkb55/SadmanSkb55/blob/output/github-contribution-grid-snake.svg)
+-->
